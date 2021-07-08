@@ -1,0 +1,8 @@
+table, th, td {
+    border: solid 1px;
+    border-collapse: collapse;
+}
+
+tr:first-child{
+    background-color: pink;
+}
