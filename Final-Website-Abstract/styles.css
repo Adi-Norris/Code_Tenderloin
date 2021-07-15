@@ -1,7 +1,7 @@
 .menu{
     display: inline-block;
     background: rgb(240, 197, 7);
-    position:static;
+    position:fixed;
   }
 
   .body{
@@ -10,6 +10,18 @@
     background-repeat: no-repeat;
     text-align:center;
     color:azure;
+    height:850px;
+  }
+
+  .box{
+    width: 400px;
+    border: 25px solid grey;
+    padding: 25px;
+    margin: 25px;
+    align-content:center;
+    position: fixed;
+    left: 35%;
+    margin-left: -100px;
   }
 
   

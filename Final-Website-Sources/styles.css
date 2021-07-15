@@ -1,0 +1,20 @@
+.menu{
+    display: inline-block;
+    background: rgb(240, 197, 7);
+    position:fixed;
+  }
+
+  .background{
+      background-color:cornsilk;
+      height: 800px;
+  }
+
+  .body1{
+      background-color: cornsilk;
+      display:inline-block;
+      border-bottom: 2px dotted grey;
+  }
+
+  .body2{
+      background-color: cornsilk;
+  }

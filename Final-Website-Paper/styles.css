@@ -1,0 +1,26 @@
+.menu{
+    display: inline-block;
+    background: rgb(240, 197, 7);
+    position:fixed;
+  }
+
+.background{
+    background-color: blanchedalmond;
+}
+
+  .body{
+      text-align:center;
+      margin-top:15px;
+  }
+
+  .box{
+    width: 800px;
+    padding: 25px;
+    align-content:center;
+    position:relative;
+    left: 20%;
+  }
+
+  .smaller{
+      font-size: 11px;
+  }
