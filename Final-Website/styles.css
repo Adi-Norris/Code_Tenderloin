@@ -1,0 +1,16 @@
+.menu{
+    display: inline-block;
+    background: rgb(240, 197, 7);
+    position:static;
+  }
+
+  .body{
+    background-image: url(Lion-Family-1024x675.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    text-align:center;
+    color:azure;
+  }
+
+  
+  
